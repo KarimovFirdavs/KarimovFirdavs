@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @KarimovFirdavs
 - 👀 I’m interested in Programming ang gaming
 - 🌱 I’m currently learning css html JS
+- I spend most of my life in school and programming and in my spare time I play CS:GO I study seriously JS I want to become a successful person on earth
