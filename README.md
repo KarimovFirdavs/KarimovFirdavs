@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KarimovFirdavs
+- 👀 I’m interested in Programming ang gaming
+- 🌱 I’m currently learning css html JS
